@@ -1,3 +1,25 @@
+# React Demo Application
+
+This project is a small React application built for a class assignment.  
+It includes a login page with basic phone number validation, a main page that retrieves and displays user data from a public API, and a detail page showing more information about a selected user.
+
+## Features
+
+- Login page with phone number validation
+- Maintains login state using localStorage
+- Displays users from a public API
+- Search bar that filters users dynamically
+- Detail page showing information about a selected user
+- Basic unit test using Jest
+
+## API Used
+
+This project uses the JSONPlaceholder public API to retrieve user data:
+https://jsonplaceholder.typicode.com/users
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
